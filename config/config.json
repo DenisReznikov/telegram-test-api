@@ -1,0 +1,7 @@
+{
+  "protocol": "https",
+  "host": "localhost",
+  "port": 9000,
+  "storage": "RAM",
+  "storeTimeout": 60
+}
